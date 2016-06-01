@@ -15,7 +15,7 @@ public class POIWordUtil {
 
     public static void main(String[] args) throws Exception {
         Map<String, String> replaces = new HashMap<String, String>();
-
+ 
         replaces.put("${username}", "rongzhi_li");
         replaces.put("${password}", "1123456");
         replaces.put("${author}", "lee");
